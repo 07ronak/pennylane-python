@@ -1,0 +1,71 @@
+{
+    "items": [
+        {
+            "id": 1836790577,
+            "label": "Facture Test1 Test2 - F-2025-03191 (label g\u00e9n\u00e9r\u00e9)",
+            "invoice_number": "F-2025-03191",
+            "currency": "EUR",
+            "amount": "1.2",
+            "currency_amount": "1.2",
+            "currency_amount_before_tax": "1.0",
+            "tax": "0.2",
+            "currency_tax": "0.2",
+            "remaining_amount_with_tax": "1.2",
+            "remaining_amount_without_tax": "1.0",
+            "language": "fr_FR",
+            "paid": false,
+            "status": "upcoming",
+            "filename": "Invoice-Test1 Test2-Sandbox Accrual accounting - mayank@capia.ai-F-2025-03191.pdf",
+            "date": "2025-03-19",
+            "deadline": "2025-04-18",
+            "pdf_invoice_free_text": "",
+            "pdf_invoice_subject": "",
+            "pdf_description": "",
+            "special_mention": "",
+            "from_estimate_id": null,
+            "created_at": "2025-03-19T11:32:34.650892Z",
+            "updated_at": "2025-03-19T11:32:36.276315Z",
+            "archived_at": null,
+            "public_file_url": "https://app.pennylane.com/public/invoice/pdf?encrypted_id=8lNqnkzZ%2BSuiLFzHWNZ3LJ85LGx4iWooOpi0Y6NbpRAW1CrXWQPAXyS1NiJFQ2jWV1rSo61fEFibS3dujBgSaZZTnUrgmZDy5qMPTvy1R9%2FB1nx4bub14202--G5KNpSH1oAyL%2F06s--PDj0nOt5DXQaDW7wctKRqg%3D%3D",
+            "exchange_rate": "1.0",
+            "discount": {
+                "type": "relative",
+                "value": "0.0"
+            },
+            "ledger_entry": {
+                "id": 1836790577002
+            },
+            "customer_invoice_template": {
+                "id": 294444
+            },
+            "transaction_reference": null,
+            "customer": {
+                "id": 152875514,
+                "url": "https://app.pennylane.com/api/external/v2/customers/152875514"
+            },
+            "billing_subscription": null,
+            "estimate": null,
+            "invoice_line_sections": {
+                "url": "https://app.pennylane.com/api/external/v2/customer_invoices/1836790577/invoice_line_sections"
+            },
+            "invoice_lines": {
+                "url": "https://app.pennylane.com/api/external/v2/customer_invoices/1836790577/invoice_lines"
+            },
+            "categories": {
+                "url": "https://app.pennylane.com/api/external/v2/customer_invoices/1836790577/categories"
+            },
+            "payments": {
+                "url": "https://app.pennylane.com/api/external/v2/customer_invoices/1836790577/payments"
+            },
+            "matched_transactions": {
+                "url": "https://app.pennylane.com/api/external/v2/customer_invoices/1836790577/matched_transactions"
+            },
+            "appendices": {
+                "url": "https://app.pennylane.com/api/external/v2/customer_invoices/1836790577/appendices"
+            },
+            "external_reference": "MGUTTBOYYH"
+        }
+    ],
+    "has_more": false,
+    "next_cursor": null
+}
