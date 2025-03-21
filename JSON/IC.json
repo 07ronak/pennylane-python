@@ -1,0 +1,819 @@
+[
+    {
+        "customer": "Amy Lauterbach",
+        "response": {
+            "id": 153262842,
+            "name": "Amy Lauterbach",
+            "billing_iban": null,
+            "payment_conditions": "30_days",
+            "recipient": "",
+            "phone": "(650) 555-3311",
+            "reference": "",
+            "first_name": "Amy",
+            "last_name": "Lauterbach",
+            "created_at": "2025-03-21T12:13:53.184782Z",
+            "updated_at": "2025-03-21T12:13:53.184682Z",
+            "ledger_account": {
+                "id": 1163383833
+            },
+            "notes": null,
+            "emails": [
+                "birds@intuit.com"
+            ],
+            "billing_address": {
+                "address": "4581 Finch St.",
+                "postal_code": "94326",
+                "city": "Bayshore",
+                "country_alpha2": "CA"
+            },
+            "delivery_address": {
+                "address": "4581 Finch St.",
+                "postal_code": "94326",
+                "city": "Bayshore",
+                "country_alpha2": "CA"
+            },
+            "external_reference": "69c33a70-e7bd-4241-b8f1-344b424b9597"
+        }
+    },
+    {
+        "customer": "Bill Lucchini",
+        "response": {
+            "message": "The delivery_address field does not allow null values.",
+            "code": "NotNullError",
+            "field": "delivery_address"
+        }
+    },
+    {
+        "customer": "Grace Pariente",
+        "response": {
+            "message": "The delivery_address field does not allow null values.",
+            "code": "NotNullError",
+            "field": "delivery_address"
+        }
+    },
+    {
+        "customer": "Diego Rodriguez",
+        "response": {
+            "message": "The delivery_address field does not allow null values.",
+            "code": "NotNullError",
+            "field": "delivery_address"
+        }
+    },
+    {
+        "customer": "Peter Dukes",
+        "response": {
+            "id": 153262847,
+            "name": "Peter Dukes",
+            "billing_iban": null,
+            "payment_conditions": "30_days",
+            "recipient": "",
+            "phone": "(520) 420-5638",
+            "reference": "",
+            "first_name": "Peter",
+            "last_name": "Dukes",
+            "created_at": "2025-03-21T12:13:55.851157Z",
+            "updated_at": "2025-03-21T12:13:55.851060Z",
+            "ledger_account": {
+                "id": 1163383844
+            },
+            "notes": null,
+            "emails": [
+                "dukes_bball@intuit.com"
+            ],
+            "billing_address": {
+                "address": "25 Court St.",
+                "postal_code": "85719",
+                "city": "Tucson",
+                "country_alpha2": "AZ"
+            },
+            "delivery_address": {
+                "address": "25 Court St.",
+                "postal_code": "85719",
+                "city": "Tucson",
+                "country_alpha2": "AZ"
+            },
+            "external_reference": "365a0fb9-8753-4f42-bc6c-8d816904b1b9"
+        }
+    },
+    {
+        "customer": "Dylan Sollfrank",
+        "response": {
+            "message": "The delivery_address field does not allow null values.",
+            "code": "NotNullError",
+            "field": "delivery_address"
+        }
+    },
+    {
+        "customer": "Kirby Freeman",
+        "response": {
+            "id": 153262849,
+            "name": "Kirby Freeman",
+            "billing_iban": null,
+            "payment_conditions": "30_days",
+            "recipient": "",
+            "phone": "(650) 555-0987",
+            "reference": "",
+            "first_name": "Kirby",
+            "last_name": "Freeman",
+            "created_at": "2025-03-21T12:13:57.184661Z",
+            "updated_at": "2025-03-21T12:13:57.184551Z",
+            "ledger_account": {
+                "id": 1163383848
+            },
+            "notes": null,
+            "emails": [
+                "sporting_goods@intuit.com"
+            ],
+            "billing_address": {
+                "address": "370 Easy St.",
+                "postal_code": "94482",
+                "city": "Middlefield",
+                "country_alpha2": "CA"
+            },
+            "delivery_address": {
+                "address": "370 Easy St.",
+                "postal_code": "94482",
+                "city": "Middlefield",
+                "country_alpha2": "CA"
+            },
+            "external_reference": "2931da95-2280-449d-ae5a-e6be2cd95eb6"
+        }
+    },
+    {
+        "customer": "Sasha Tillou",
+        "response": {
+            "id": 153262850,
+            "name": "Sasha Tillou",
+            "billing_iban": null,
+            "payment_conditions": "30_days",
+            "recipient": "",
+            "phone": "(415) 555-9933",
+            "reference": "",
+            "first_name": "Sasha",
+            "last_name": "Tillou",
+            "created_at": "2025-03-21T12:13:57.489732Z",
+            "updated_at": "2025-03-21T12:13:57.489625Z",
+            "ledger_account": {
+                "id": 1163383849
+            },
+            "notes": null,
+            "emails": [
+                "sporting_goods@intuit.com"
+            ],
+            "billing_address": {
+                "address": "370 Easy St.",
+                "postal_code": "94482",
+                "city": "Middlefield",
+                "country_alpha2": "CA"
+            },
+            "delivery_address": {
+                "address": "370 Easy St.",
+                "postal_code": "94482",
+                "city": "Middlefield",
+                "country_alpha2": "CA"
+            },
+            "external_reference": "75ba79db-23c6-40cc-a9a2-5a0d6ee64bab"
+        }
+    },
+    {
+        "customer": "Amelia ",
+        "response": {
+            "status": 422,
+            "error": "Last name can't be blank"
+        }
+    },
+    {
+        "customer": "Geeta Kalapatapu",
+        "response": {
+            "id": 153262852,
+            "name": "Geeta Kalapatapu",
+            "billing_iban": null,
+            "payment_conditions": "30_days",
+            "recipient": "",
+            "phone": "(650) 555-0022",
+            "reference": "",
+            "first_name": "Geeta",
+            "last_name": "Kalapatapu",
+            "created_at": "2025-03-21T12:13:58.349178Z",
+            "updated_at": "2025-03-21T12:13:58.349062Z",
+            "ledger_account": {
+                "id": 1163383851
+            },
+            "notes": null,
+            "emails": [
+                "geeta@kalapatapu.com"
+            ],
+            "billing_address": {
+                "address": "1987 Main St.",
+                "postal_code": "94303",
+                "city": "Middlefield",
+                "country_alpha2": "CA"
+            },
+            "delivery_address": {
+                "address": "1987 Main St.",
+                "postal_code": "94303",
+                "city": "Middlefield",
+                "country_alpha2": "CA"
+            },
+            "external_reference": "be0a9b52-c6cd-4773-96f9-3c76afa6cde7"
+        }
+    },
+    {
+        "customer": "Lisa Gevelber",
+        "response": {
+            "id": 153262854,
+            "name": "Lisa Gevelber",
+            "billing_iban": null,
+            "payment_conditions": "30_days",
+            "recipient": "",
+            "phone": "(415) 222-4345",
+            "reference": "",
+            "first_name": "Lisa",
+            "last_name": "Gevelber",
+            "created_at": "2025-03-21T12:13:58.941250Z",
+            "updated_at": "2025-03-21T12:13:58.941136Z",
+            "ledger_account": {
+                "id": 1163383853
+            },
+            "notes": null,
+            "emails": [
+                "photography@intuit.com"
+            ],
+            "billing_address": {
+                "address": "1045 Main St.",
+                "postal_code": "94213",
+                "city": "Half Moon Bay",
+                "country_alpha2": "CA"
+            },
+            "delivery_address": {
+                "address": "1045 Main St.",
+                "postal_code": "94213",
+                "city": "Half Moon Bay",
+                "country_alpha2": "CA"
+            },
+            "external_reference": "5bedcf26-54f0-4a57-ae75-58d85de8c90c"
+        }
+    },
+    {
+        "customer": "Jeff Chin",
+        "response": {
+            "id": 153262855,
+            "name": "Jeff Chin",
+            "billing_iban": null,
+            "payment_conditions": "30_days",
+            "recipient": "",
+            "phone": "(650) 555-8989",
+            "reference": "",
+            "first_name": "Jeff",
+            "last_name": "Chin",
+            "created_at": "2025-03-21T12:13:59.290213Z",
+            "updated_at": "2025-03-21T12:13:59.290112Z",
+            "ledger_account": {
+                "id": 1163383854
+            },
+            "notes": null,
+            "emails": [
+                "jalopies@intuit.com"
+            ],
+            "billing_address": {
+                "address": "12 Willow Rd.",
+                "postal_code": "94305",
+                "city": "Menlo Park",
+                "country_alpha2": "CA"
+            },
+            "delivery_address": {
+                "address": "12 Willow Rd.",
+                "postal_code": "94305",
+                "city": "Menlo Park",
+                "country_alpha2": "CA"
+            },
+            "external_reference": "a56a83a7-004c-4306-92cf-5ca70a644ad4"
+        }
+    },
+    {
+        "customer": "John Melton",
+        "response": {
+            "id": 153262857,
+            "name": "John Melton",
+            "billing_iban": null,
+            "payment_conditions": "30_days",
+            "recipient": "",
+            "phone": "(650) 555-5879",
+            "reference": "",
+            "first_name": "John",
+            "last_name": "Melton",
+            "created_at": "2025-03-21T12:13:59.908761Z",
+            "updated_at": "2025-03-21T12:13:59.908636Z",
+            "ledger_account": {
+                "id": 1163383856
+            },
+            "notes": null,
+            "emails": [
+                "john@melton.com"
+            ],
+            "billing_address": {
+                "address": "85 Pine St.",
+                "postal_code": "94304",
+                "city": "Menlo Park",
+                "country_alpha2": "CA"
+            },
+            "delivery_address": {
+                "address": "85 Pine St.",
+                "postal_code": "94304",
+                "city": "Menlo Park",
+                "country_alpha2": "CA"
+            },
+            "external_reference": "91cbb91d-baa6-4261-aa91-9da5a166d3a6"
+        }
+    },
+    {
+        "customer": "Kate Whelan",
+        "response": {
+            "id": 153262858,
+            "name": "Kate Whelan",
+            "billing_iban": null,
+            "payment_conditions": "30_days",
+            "recipient": "",
+            "phone": "(650) 554-8822",
+            "reference": "",
+            "first_name": "Kate",
+            "last_name": "Whelan",
+            "created_at": "2025-03-21T12:14:00.221859Z",
+            "updated_at": "2025-03-21T12:14:00.221762Z",
+            "ledger_account": {
+                "id": 1163383857
+            },
+            "notes": null,
+            "emails": [
+                "kate@whelan.com"
+            ],
+            "billing_address": {
+                "address": "45 First St.",
+                "postal_code": "94304",
+                "city": "Menlo Park",
+                "country_alpha2": "CA"
+            },
+            "delivery_address": {
+                "address": "45 First St.",
+                "postal_code": "94304",
+                "city": "Menlo Park",
+                "country_alpha2": "CA"
+            },
+            "external_reference": "3289c311-3164-44af-b2f3-cdc4da4a51fc"
+        }
+    },
+    {
+        "customer": "Kathy Kuplis",
+        "response": {
+            "message": "The delivery_address field does not allow null values.",
+            "code": "NotNullError",
+            "field": "delivery_address"
+        }
+    },
+    {
+        "customer": "Mark Cho",
+        "response": {
+            "id": 153262860,
+            "name": "Mark Cho",
+            "billing_iban": null,
+            "payment_conditions": "30_days",
+            "recipient": "",
+            "phone": "(650) 554-1479",
+            "reference": "",
+            "first_name": "Mark",
+            "last_name": "Cho",
+            "created_at": "2025-03-21T12:14:01.583353Z",
+            "updated_at": "2025-03-21T12:14:01.583245Z",
+            "ledger_account": {
+                "id": 1163383859
+            },
+            "notes": null,
+            "emails": [
+                "mark@cho.com"
+            ],
+            "billing_address": {
+                "address": "36 Willow Rd",
+                "postal_code": "94304",
+                "city": "Menlo Park",
+                "country_alpha2": "CA"
+            },
+            "delivery_address": {
+                "address": "36 Willow Rd",
+                "postal_code": "94304",
+                "city": "Menlo Park",
+                "country_alpha2": "CA"
+            },
+            "external_reference": "dc800f85-d4a8-4013-9f94-d560601772b3"
+        }
+    },
+    {
+        "customer": "Kathy Paulsen",
+        "response": {
+            "id": 153262861,
+            "name": "Kathy Paulsen",
+            "billing_iban": null,
+            "payment_conditions": "30_days",
+            "recipient": "",
+            "phone": "(650) 557-4569",
+            "reference": "",
+            "first_name": "Kathy",
+            "last_name": "Paulsen",
+            "created_at": "2025-03-21T12:14:02.197489Z",
+            "updated_at": "2025-03-21T12:14:02.197364Z",
+            "ledger_account": {
+                "id": 1163383860
+            },
+            "notes": null,
+            "emails": [
+                "medical@intuit.com"
+            ],
+            "billing_address": {
+                "address": "900 Main St.",
+                "postal_code": "94303",
+                "city": "Middlefield",
+                "country_alpha2": "CA"
+            },
+            "delivery_address": {
+                "address": "38921 S. Boise Ave",
+                "postal_code": "94304",
+                "city": "Middlefield",
+                "country_alpha2": "CA"
+            },
+            "external_reference": "c2f968f2-beaf-4e24-bed3-4140cdd0709d"
+        }
+    },
+    {
+        "customer": "Karen Pye",
+        "response": {
+            "status": 422,
+            "error": "Country code is not included in the list, Delivery country alpha2 is not included in the list"
+        }
+    },
+    {
+        "customer": "Jeff Rago",
+        "response": {
+            "id": 153262862,
+            "name": "Jeff Rago",
+            "billing_iban": null,
+            "payment_conditions": "30_days",
+            "recipient": "",
+            "phone": "(650) 555-1596",
+            "reference": "",
+            "first_name": "Jeff",
+            "last_name": "Rago",
+            "created_at": "2025-03-21T12:14:03.406449Z",
+            "updated_at": "2025-03-21T12:14:03.406353Z",
+            "ledger_account": {
+                "id": 1163383861
+            },
+            "notes": null,
+            "emails": [
+                "rago_travel@intuit.com"
+            ],
+            "billing_address": {
+                "address": "753 Cedar St.",
+                "postal_code": "94326",
+                "city": "Bayshore",
+                "country_alpha2": "CA"
+            },
+            "delivery_address": {
+                "address": "753 Cedar St.",
+                "postal_code": "94326",
+                "city": "Bayshore",
+                "country_alpha2": "CA"
+            },
+            "external_reference": "6cc3aaed-126b-48b5-96f2-df108b5ea7b5"
+        }
+    },
+    {
+        "customer": "Stephanie Martini",
+        "response": {
+            "id": 153262865,
+            "name": "Stephanie Martini",
+            "billing_iban": null,
+            "payment_conditions": "30_days",
+            "recipient": "",
+            "phone": "(650) 555-4973",
+            "reference": "",
+            "first_name": "Stephanie",
+            "last_name": "Martini",
+            "created_at": "2025-03-21T12:14:04.057118Z",
+            "updated_at": "2025-03-21T12:14:04.056993Z",
+            "ledger_account": {
+                "id": 1163383867
+            },
+            "notes": null,
+            "emails": [
+                "qbwebsamplecompany@yahoo.com"
+            ],
+            "billing_address": {
+                "address": "500 Red Rock Rd.",
+                "postal_code": "94326",
+                "city": "Bayshore",
+                "country_alpha2": "CA"
+            },
+            "delivery_address": {
+                "address": "500 Red Rock Rd.",
+                "postal_code": "94326",
+                "city": "Bayshore",
+                "country_alpha2": "CA"
+            },
+            "external_reference": "7cb360aa-7672-49a7-b1ff-15665bd55529"
+        }
+    },
+    {
+        "customer": "Rondonuwu and Vegi",
+        "response": {
+            "id": 153262866,
+            "name": "Rondonuwu and Vegi",
+            "billing_iban": null,
+            "payment_conditions": "30_days",
+            "recipient": "",
+            "phone": "(650) 555-2645",
+            "reference": "",
+            "first_name": "Rondonuwu",
+            "last_name": "and Vegi",
+            "created_at": "2025-03-21T12:14:04.407250Z",
+            "updated_at": "2025-03-21T12:14:04.407116Z",
+            "ledger_account": {
+                "id": 1163383868
+            },
+            "notes": null,
+            "emails": [
+                "tony@rondonuwu.com"
+            ],
+            "billing_address": {
+                "address": "847 California Ave.",
+                "postal_code": "95021",
+                "city": "San Jose",
+                "country_alpha2": "CA"
+            },
+            "delivery_address": {
+                "address": "847 California Ave.",
+                "postal_code": "95021",
+                "city": "San Jose",
+                "country_alpha2": "CA"
+            },
+            "external_reference": "d21abdff-48fb-49b2-9099-ba32cf111771"
+        }
+    },
+    {
+        "customer": "Shara Barnett",
+        "response": {
+            "id": 153262867,
+            "name": "Shara Barnett",
+            "billing_iban": null,
+            "payment_conditions": "30_days",
+            "recipient": "",
+            "phone": "(650) 555-4563",
+            "reference": "",
+            "first_name": "Shara",
+            "last_name": "Barnett",
+            "created_at": "2025-03-21T12:14:05.064114Z",
+            "updated_at": "2025-03-21T12:14:05.064011Z",
+            "ledger_account": {
+                "id": 1163383869
+            },
+            "notes": null,
+            "emails": [
+                "shara@barnett.com"
+            ],
+            "billing_address": {
+                "address": "77 University",
+                "postal_code": "94303",
+                "city": "Palo Alto",
+                "country_alpha2": "CA"
+            },
+            "delivery_address": {
+                "address": "77 University",
+                "postal_code": "94303",
+                "city": "Palo Alto",
+                "country_alpha2": "CA"
+            },
+            "external_reference": "d9aa31d6-bb1b-4121-9127-855704bfaf2f"
+        }
+    },
+    {
+        "customer": "Shara Barnett",
+        "response": {
+            "id": 153262869,
+            "name": "Shara Barnett",
+            "billing_iban": null,
+            "payment_conditions": "30_days",
+            "recipient": "",
+            "phone": "(650) 557-1289",
+            "reference": "",
+            "first_name": "Shara",
+            "last_name": "Barnett",
+            "created_at": "2025-03-21T12:14:05.380664Z",
+            "updated_at": "2025-03-21T12:14:05.380557Z",
+            "ledger_account": {
+                "id": 1163383871
+            },
+            "notes": null,
+            "emails": [
+                "design@intuit.com"
+            ],
+            "billing_address": {
+                "address": "19 Main St.",
+                "postal_code": "94303",
+                "city": "Middlefield",
+                "country_alpha2": "CA"
+            },
+            "delivery_address": {
+                "address": "19 Main St.",
+                "postal_code": "94303",
+                "city": "Middlefield",
+                "country_alpha2": "CA"
+            },
+            "external_reference": "66db3ed5-6112-48ee-8f37-1dbcb1743b4f"
+        }
+    },
+    {
+        "customer": "Russ Sonnenschein",
+        "response": {
+            "id": 153262870,
+            "name": "Russ Sonnenschein",
+            "billing_iban": null,
+            "payment_conditions": "30_days",
+            "recipient": "",
+            "phone": "(650) 557-8463",
+            "reference": "",
+            "first_name": "Russ",
+            "last_name": "Sonnenschein",
+            "created_at": "2025-03-21T12:14:05.729977Z",
+            "updated_at": "2025-03-21T12:14:05.729858Z",
+            "ledger_account": {
+                "id": 1163383872
+            },
+            "notes": null,
+            "emails": [
+                "familiystore@intuit.com"
+            ],
+            "billing_address": {
+                "address": "5647 Cypress Hill Ave.",
+                "postal_code": "94303",
+                "city": "Middlefield",
+                "country_alpha2": "CA"
+            },
+            "delivery_address": {
+                "address": "5647 Cypress Hill Ave.",
+                "postal_code": "94303",
+                "city": "Middlefield",
+                "country_alpha2": "CA"
+            },
+            "external_reference": "04484b62-4a19-4b27-a209-3b98da9cbbd3"
+        }
+    },
+    {
+        "customer": "Katsuyuki Yanagawa",
+        "response": {
+            "status": 422,
+            "error": "Country code is not included in the list, Delivery country alpha2 is not included in the list"
+        }
+    },
+    {
+        "customer": "Travis Waldron",
+        "response": {
+            "id": 153262872,
+            "name": "Travis Waldron",
+            "billing_iban": null,
+            "payment_conditions": "30_days",
+            "recipient": "",
+            "phone": "(650) 557-9977",
+            "reference": "",
+            "first_name": "Travis",
+            "last_name": "Waldron",
+            "created_at": "2025-03-21T12:14:06.519009Z",
+            "updated_at": "2025-03-21T12:14:06.518899Z",
+            "ledger_account": {
+                "id": 1163383874
+            },
+            "notes": null,
+            "emails": [
+                "travis@waldron.com"
+            ],
+            "billing_address": {
+                "address": "78 First St.",
+                "postal_code": "94304",
+                "city": "Monlo Park",
+                "country_alpha2": "CA"
+            },
+            "delivery_address": {
+                "address": "78 First St.",
+                "postal_code": "94304",
+                "city": "Monlo Park",
+                "country_alpha2": "CA"
+            },
+            "external_reference": "c9580db5-b670-42d1-98b4-34dc517f3062"
+        }
+    },
+    {
+        "customer": "Dan Wilks",
+        "response": {
+            "id": 153262873,
+            "name": "Dan Wilks",
+            "billing_iban": null,
+            "payment_conditions": "30_days",
+            "recipient": "",
+            "phone": "(650) 555-3456",
+            "reference": "",
+            "first_name": "Dan",
+            "last_name": "Wilks",
+            "created_at": "2025-03-21T12:14:06.918954Z",
+            "updated_at": "2025-03-21T12:14:06.918847Z",
+            "ledger_account": {
+                "id": 1163383875
+            },
+            "notes": null,
+            "emails": [
+                "videogames@intuit.com"
+            ],
+            "billing_address": {
+                "address": "202 Main St.",
+                "postal_code": "85704",
+                "city": "Tucson",
+                "country_alpha2": "AZ"
+            },
+            "delivery_address": {
+                "address": "202 Main St.",
+                "postal_code": "85704",
+                "city": "Tucson",
+                "country_alpha2": "AZ"
+            },
+            "external_reference": "72690248-18ed-4a78-838c-136e98bd9429"
+        }
+    },
+    {
+        "customer": "Whitney Brewer",
+        "response": {
+            "id": 153262874,
+            "name": "Whitney Brewer",
+            "billing_iban": null,
+            "payment_conditions": "30_days",
+            "recipient": "",
+            "phone": "(650) 557-2473",
+            "reference": "",
+            "first_name": "Whitney",
+            "last_name": "Brewer",
+            "created_at": "2025-03-21T12:14:07.241815Z",
+            "updated_at": "2025-03-21T12:14:07.241712Z",
+            "ledger_account": {
+                "id": 1163383876
+            },
+            "notes": null,
+            "emails": [
+                "dream_wedding@intuit.com"
+            ],
+            "billing_address": {
+                "address": "135 Broadway",
+                "postal_code": "94304",
+                "city": "Menlo Park",
+                "country_alpha2": "CA"
+            },
+            "delivery_address": {
+                "address": "135 Broadway",
+                "postal_code": "94304",
+                "city": "Menlo Park",
+                "country_alpha2": "CA"
+            },
+            "external_reference": "03259f44-c306-4433-9280-b060a29d300b"
+        }
+    },
+    {
+        "customer": "Nicola Weiskopf",
+        "response": {
+            "id": 153262876,
+            "name": "Nicola Weiskopf",
+            "billing_iban": null,
+            "payment_conditions": "30_days",
+            "recipient": "",
+            "phone": "(650) 555-1423",
+            "reference": "",
+            "first_name": "Nicola",
+            "last_name": "Weiskopf",
+            "created_at": "2025-03-21T12:14:07.539798Z",
+            "updated_at": "2025-03-21T12:14:07.539518Z",
+            "ledger_account": {
+                "id": 1163383899
+            },
+            "notes": null,
+            "emails": [
+                "consulting@intuit.com"
+            ],
+            "billing_address": {
+                "address": "45612 Main St.",
+                "postal_code": "94326",
+                "city": "Bayshore",
+                "country_alpha2": "CA"
+            },
+            "delivery_address": {
+                "address": "45612 Main St.",
+                "postal_code": "94326",
+                "city": "Bayshore",
+                "country_alpha2": "CA"
+            },
+            "external_reference": "c5ae8a1f-1b97-48d5-9d86-d34f54690b76"
+        }
+    }
+]

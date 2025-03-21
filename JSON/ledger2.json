@@ -1,0 +1,2672 @@
+{
+    "total_pages": 2,
+    "current_page": 2,
+    "per_page": 1000,
+    "total_items": 1333,
+    "items": [
+        {
+            "id": 1153341055,
+            "number": "6718",
+            "label": "Autres charges exceptionnelles sur op\u00e9rations de gestion",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341056,
+            "number": "672",
+            "label": "(Compte \u00e0 la disposition des entit\u00e9s pour enregistrer, en cours d'exercice, les charges sur exercices ant\u00e9rieurs)",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341057,
+            "number": "675",
+            "label": "Valeurs comptables des \u00e9l\u00e9ments d'actif c\u00e9d\u00e9s",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341058,
+            "number": "6751",
+            "label": "Immobilisations incorporelles",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341059,
+            "number": "6752",
+            "label": "Immobilisations corporelles",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341060,
+            "number": "6754",
+            "label": "Valeurs comptables des \u00e9l\u00e9ments d'actif c\u00e9d\u00e9s, immobilisations corporelles, biens vivants",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341061,
+            "number": "6756",
+            "label": "Immobilisations financi\u00e8res",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341062,
+            "number": "6758",
+            "label": "Autres \u00e9l\u00e9ments d'actif",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341063,
+            "number": "678",
+            "label": "Autres charges exceptionnelles",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341064,
+            "number": "6781",
+            "label": "Malis provenant de clauses d'indexation",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341065,
+            "number": "6782",
+            "label": "Lots",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341066,
+            "number": "6783",
+            "label": "Malis provenant du rachat par l'entreprise d'actions et obligations \u00e9mises par elle-m\u00eame",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341067,
+            "number": "6788",
+            "label": "Charges exceptionnelles diverses",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341068,
+            "number": "680",
+            "label": "Dotations aux amortissements, aux d\u00e9pr\u00e9ciations et aux provisions",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341069,
+            "number": "681",
+            "label": "Dotations aux amortissements, aux d\u00e9pr\u00e9ciations et aux provisions (\u00e0 inscrire dans les charges d'exploitation)",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341070,
+            "number": "6811",
+            "label": "Dotations aux amortissements sur immobilisations incorporelles et corporelles",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341071,
+            "number": "68111",
+            "label": "Immobilisations incorporelles et frais d'\u00e9tablissement (anciennement Immobilisations incorporelles)",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341072,
+            "number": "68112",
+            "label": "Immobilisations corporelles",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341073,
+            "number": "68114",
+            "label": "Immo corporelles (bien vivants)",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341074,
+            "number": "6812",
+            "label": "Dotations aux amortissements des charges d'exploitation \u00e0 r\u00e9partir",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341075,
+            "number": "6815",
+            "label": "Dotations aux provisions d'exploitation",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341076,
+            "number": "6816",
+            "label": "Dotations pour d\u00e9pr\u00e9ciations des immobilisations incorporelles et corporelles",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341077,
+            "number": "68161",
+            "label": "Immobilisations incorporelles",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341078,
+            "number": "68162",
+            "label": "Immobilisations corporelles",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341079,
+            "number": "68164",
+            "label": "Dotation aux provisions pour d\u00e9pr\u00e9ciations des immobilisations corporelles et biens vivants",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341080,
+            "number": "6817",
+            "label": "Dotations pour d\u00e9pr\u00e9ciations des actifs circulants",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341081,
+            "number": "68173",
+            "label": "Stocks et en-cours",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341082,
+            "number": "68174",
+            "label": "Cr\u00e9ances",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341083,
+            "number": "686",
+            "label": "Dotations aux amortissements, aux d\u00e9pr\u00e9ciations et aux provisions (\u00e0 inscrire dans les charges financi\u00e8res)",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341084,
+            "number": "6861",
+            "label": "Dotations aux amortissements des primes de remboursement des emprunts",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341085,
+            "number": "6862",
+            "label": "Dotations aux amortissements des frais d'\u00e9mission des emprunts",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341086,
+            "number": "6865",
+            "label": "Dotations aux provisions financi\u00e8res",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341087,
+            "number": "6866",
+            "label": "Dotations pour d\u00e9pr\u00e9ciation des \u00e9l\u00e9ments financiers",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341088,
+            "number": "68662",
+            "label": "Immobilisations financi\u00e8res",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341089,
+            "number": "68665",
+            "label": "Valeurs mobili\u00e8res de placement",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341090,
+            "number": "6868",
+            "label": "Autres dotations",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341091,
+            "number": "687",
+            "label": "Dotations aux amortissements, aux d\u00e9pr\u00e9ciations et aux provisions (\u00e0 inscrire dans les charges exceptionnelles)",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341092,
+            "number": "6871",
+            "label": "Dotations aux amortissements exceptionnels des immobilisations",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341093,
+            "number": "6872",
+            "label": "Dotations aux provisions r\u00e9glement\u00e9es (immobilisations)",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341094,
+            "number": "68725",
+            "label": "Amortissements d\u00e9rogatoires",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341095,
+            "number": "6873",
+            "label": "Dotations aux provisions r\u00e9glement\u00e9es (stocks)",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341096,
+            "number": "6874",
+            "label": "Dotations aux autres provisions r\u00e9glement\u00e9es",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341097,
+            "number": "6875",
+            "label": "Dotations aux provisions exceptionnelles",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341098,
+            "number": "6876",
+            "label": "Dotations pour d\u00e9pr\u00e9ciations exceptionnelles",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341099,
+            "number": "690",
+            "label": "Participation des salari\u00e9s - Imp\u00f4ts sur les b\u00e9n\u00e9fices et assimil\u00e9s",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341100,
+            "number": "691",
+            "label": "Participation des salari\u00e9s aux r\u00e9sultats",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341101,
+            "number": "695",
+            "label": "Imp\u00f4ts sur les b\u00e9n\u00e9fices",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341102,
+            "number": "6951",
+            "label": "Imp\u00f4ts dus en France",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341103,
+            "number": "6952",
+            "label": "Contribution additionnelle \u00e0 l'imp\u00f4t sur les b\u00e9n\u00e9fices",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341104,
+            "number": "6954",
+            "label": "Imp\u00f4ts dus \u00e0 l'\u00e9tranger",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341105,
+            "number": "696",
+            "label": "Suppl\u00e9ments d'imp\u00f4t sur les soci\u00e9t\u00e9s li\u00e9s aux distributions",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341106,
+            "number": "697",
+            "label": "Imposition forfaitaire annuelle des soci\u00e9t\u00e9s",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341107,
+            "number": "698",
+            "label": "Int\u00e9gration fiscale",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341108,
+            "number": "6981",
+            "label": "Int\u00e9gration fiscale - Charges",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341109,
+            "number": "6989",
+            "label": "Int\u00e9gration fiscale - Produits",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341110,
+            "number": "699",
+            "label": "Produits - Reports en arri\u00e8re des d\u00e9ficits",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341111,
+            "number": "700",
+            "label": "Ventes de produits fabriqu\u00e9s, prestations de services, marchandises",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341112,
+            "number": "701",
+            "label": "Ventes de produits finis",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341113,
+            "number": "7011",
+            "label": "Produits finis (ou groupe) A",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341114,
+            "number": "7011001",
+            "label": "Ventes sur place",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341115,
+            "number": "7011002",
+            "label": "Ventes \u00e0 emporter",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341116,
+            "number": "7011003",
+            "label": "Ventes en livraison",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341117,
+            "number": "7012",
+            "label": "Produits finis (ou groupe) B",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341118,
+            "number": "70120004",
+            "label": "Ventes de liquide",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341119,
+            "number": "70130004",
+            "label": "Ventes de solide",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341120,
+            "number": "702",
+            "label": "Ventes de produits interm\u00e9diaires",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341121,
+            "number": "703",
+            "label": "Ventes de produits r\u00e9siduels",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341122,
+            "number": "704",
+            "label": "Travaux",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341123,
+            "number": "7041",
+            "label": "Travaux de cat\u00e9gorie (ou activit\u00e9) A",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341124,
+            "number": "7042",
+            "label": "Travaux de cat\u00e9gorie (ou activit\u00e9) B",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341125,
+            "number": "705",
+            "label": "\u00c9tudes",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341126,
+            "number": "706",
+            "label": "Prestations de services",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341127,
+            "number": "7068",
+            "label": "Service au pourcentage revenant au personnel",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341128,
+            "number": "707",
+            "label": "Ventes de marchandises",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341130,
+            "number": "7071",
+            "label": "Marchandises (ou groupe) A",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341131,
+            "number": "7072",
+            "label": "Marchandises (ou groupe) B",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341132,
+            "number": "708",
+            "label": "Produits des activit\u00e9s annexes",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341133,
+            "number": "7081",
+            "label": "Produits des services exploit\u00e9s dans l'int\u00e9r\u00eat du personnel",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341134,
+            "number": "7082",
+            "label": "Commissions et courtages",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341135,
+            "number": "7083",
+            "label": "Locations diverses",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341136,
+            "number": "7084",
+            "label": "Mise \u00e0 disposition de personnel factur\u00e9e",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341137,
+            "number": "7085",
+            "label": "Ports et frais accessoires factur\u00e9s",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341138,
+            "number": "7086",
+            "label": "Bonis sur reprises d'emballages consign\u00e9s",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341139,
+            "number": "7087",
+            "label": "Bonifications obtenues des clients et primes sur ventes",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341140,
+            "number": "7088",
+            "label": "Autres produits d'activit\u00e9s annexes (cessions d'approvisionnements)",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341141,
+            "number": "709",
+            "label": "Rabais, remises et ristournes accord\u00e9s",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341142,
+            "number": "7091",
+            "label": "Rabais, remises et ristournes accord\u00e9s sur ventes de produits finis",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341143,
+            "number": "7092",
+            "label": "Rabais, remises et ristournes accord\u00e9s sur ventes de produits interm\u00e9diaires",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341144,
+            "number": "7094",
+            "label": "Rabais, remises et ristournes accord\u00e9s sur travaux",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341145,
+            "number": "7095",
+            "label": "Rabais, remises et ristournes accord\u00e9s sur \u00e9tudes",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341146,
+            "number": "7096",
+            "label": "Rabais, remises et ristournes accord\u00e9s sur prestations de services",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341147,
+            "number": "7097",
+            "label": "Rabais, remises et ristournes accord\u00e9s sur ventes de marchandises",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341148,
+            "number": "7098",
+            "label": "Rabais, remises et ristournes accord\u00e9s sur produits des activit\u00e9s annexes",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341149,
+            "number": "710",
+            "label": "Production stock\u00e9e (ou d\u00e9stockage)",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341150,
+            "number": "713",
+            "label": "Variation des stocks des en-cours de production et de produits",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341151,
+            "number": "7133",
+            "label": "Variation des en-cours de production de biens",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341152,
+            "number": "71331",
+            "label": "Produits en cours",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341153,
+            "number": "71335",
+            "label": "Travaux en cours",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341154,
+            "number": "7134",
+            "label": "Variation des en-cours de production de services",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341155,
+            "number": "71341",
+            "label": "\u00c9tudes en cours",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341156,
+            "number": "71345",
+            "label": "Prestations de services en cours",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341157,
+            "number": "7135",
+            "label": "Variation des stocks de produits",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341158,
+            "number": "71351",
+            "label": "Produits interm\u00e9diaires",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341159,
+            "number": "71355",
+            "label": "Produits finis",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341160,
+            "number": "71358",
+            "label": "Produits r\u00e9siduels",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341161,
+            "number": "720",
+            "label": "Production immobilis\u00e9e",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341162,
+            "number": "721",
+            "label": "Immobilisations incorporelles",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341163,
+            "number": "722",
+            "label": "Immobilisations corporelles",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341164,
+            "number": "740",
+            "label": "Subventions",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341165,
+            "number": "741",
+            "label": "Subventions d'exploitation",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341166,
+            "number": "742",
+            "label": "Subventions d'\u00e9quilibre",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341167,
+            "number": "747",
+            "label": "Quote-part des subventions d'investissement vir\u00e9e au r\u00e9sultat de l'exercice",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341168,
+            "number": "750",
+            "label": "Autres produits de gestion courante",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341169,
+            "number": "751",
+            "label": "Redevances pour concessions, brevets, licences, marques, proc\u00e9d\u00e9s, solutions informatiques, droits et valeurs similaires",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341170,
+            "number": "7511",
+            "label": "Redevances pour concessions, brevets, licences, marques, proc\u00e9d\u00e9s, solutions informatiques",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341171,
+            "number": "7516",
+            "label": "Droits d'auteur et de reproduction",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341172,
+            "number": "7518",
+            "label": "Autres droits et valeurs similaires",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341173,
+            "number": "752",
+            "label": "Revenus des immeubles non affect\u00e9s \u00e0 des activit\u00e9s professionnelles",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341174,
+            "number": "753",
+            "label": "R\u00e9mun\u00e9rations de l'activit\u00e9 des administrateurs et des g\u00e9rants (anciennement Jetons de pr\u00e9sence et r\u00e9mun\u00e9rations d'administrateurs, g\u00e9rants,)",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341175,
+            "number": "754",
+            "label": "Ristournes per\u00e7ues des coop\u00e9ratives provenant des exc\u00e9dents",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341176,
+            "number": "755",
+            "label": "Quote-part de r\u00e9sultat sur op\u00e9rations faites en commun",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341177,
+            "number": "7551",
+            "label": "Quote-part de perte transf\u00e9r\u00e9e - comptabilit\u00e9 du g\u00e9rant",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341178,
+            "number": "7555",
+            "label": "Quote-part de b\u00e9n\u00e9fice attribu\u00e9e - comptabilit\u00e9 des associ\u00e9s non-g\u00e9rants",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341179,
+            "number": "756",
+            "label": "Gains de change sur cr\u00e9ances et dettes commerciales",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341180,
+            "number": "757",
+            "label": "Produits des cessions d'immobilisations incorporelles et corporelles",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341181,
+            "number": "758",
+            "label": "Indemnit\u00e9s et autres produits (anciennement Produits divers de gestion courante)",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341182,
+            "number": "7581",
+            "label": "D\u00e9dits et p\u00e9nalit\u00e9s per\u00e7us sur achats et ventes",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341183,
+            "number": "7582",
+            "label": "Lib\u00e9ralit\u00e9s re\u00e7ues",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341184,
+            "number": "7583",
+            "label": "Rentr\u00e9es sur cr\u00e9ances amorties",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341185,
+            "number": "7584",
+            "label": "D\u00e9gr\u00e8vements d'imp\u00f4ts autres qu'imp\u00f4ts sur les b\u00e9n\u00e9fices",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341186,
+            "number": "7585",
+            "label": "Bonis provenant de clauses d'indexation",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341187,
+            "number": "7586",
+            "label": "Lots",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341188,
+            "number": "7587",
+            "label": "Indemnit\u00e9s d'assurance (si relatif \u00e0 des indemnit\u00e9s d'assurance)",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341189,
+            "number": "7588",
+            "label": "Op\u00e9rations de constitution ou liquidation des fiducies",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341190,
+            "number": "760",
+            "label": "Produits financiers",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341191,
+            "number": "761",
+            "label": "Produits de participations",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341192,
+            "number": "7611",
+            "label": "Revenus des titres de participation",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341193,
+            "number": "7612",
+            "label": "Produits de la fiducie, r\u00e9sultat de la p\u00e9riode",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341194,
+            "number": "7616",
+            "label": "Revenus sur autres formes de participation",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341195,
+            "number": "7617",
+            "label": "Revenus des cr\u00e9ances rattach\u00e9es \u00e0 des participations",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341196,
+            "number": "762",
+            "label": "Produits des autres immobilisations financi\u00e8res",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341197,
+            "number": "7621",
+            "label": "Revenus des titres immobilis\u00e9s",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341198,
+            "number": "7626",
+            "label": "Revenus des pr\u00eats",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341199,
+            "number": "7627",
+            "label": "Revenus des cr\u00e9ances immobilis\u00e9es",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341200,
+            "number": "763",
+            "label": "Revenus des autres cr\u00e9ances",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341201,
+            "number": "7631",
+            "label": "Revenus des cr\u00e9ances commerciales",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341202,
+            "number": "7638",
+            "label": "Revenus des cr\u00e9ances diverses",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341203,
+            "number": "764",
+            "label": "Revenus des valeurs mobili\u00e8res de placement",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341204,
+            "number": "765",
+            "label": "Escomptes obtenus",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341205,
+            "number": "766",
+            "label": "Gains de change financiers",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341206,
+            "number": "767",
+            "label": "Produits sur cession d'\u00e9l\u00e9ments financiers (anciennement Produits nets sur cessions de valeurs mobili\u00e8res de placement)",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341207,
+            "number": "7671",
+            "label": "Produits des cessions d'immobilisations financi\u00e8res",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341208,
+            "number": "7672",
+            "label": "Produits nets sur cessions de titres immobilis\u00e9s de l'activit\u00e9 de portefeuille",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341209,
+            "number": "7673",
+            "label": "Produits nets sur cessions de valeurs mobili\u00e8res de placement",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341210,
+            "number": "7674",
+            "label": "Produits nets sur cessions de jetons",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341211,
+            "number": "768",
+            "label": "Autres produits financiers",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341212,
+            "number": "7683",
+            "label": "Bonis provenant du rachat par l'entreprise d'actions et d'obligations \u00e9mises par elle-m\u00eame",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341213,
+            "number": "770",
+            "label": "Produits exceptionnels",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341214,
+            "number": "771",
+            "label": "Produits exceptionnels sur op\u00e9rations de gestion",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341215,
+            "number": "7711",
+            "label": "D\u00e9dits et p\u00e9nalit\u00e9s per\u00e7us sur achats et sur ventes",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341216,
+            "number": "7713",
+            "label": "Lib\u00e9ralit\u00e9s re\u00e7ues",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341217,
+            "number": "7714",
+            "label": "Rentr\u00e9es sur cr\u00e9ances amorties",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341218,
+            "number": "7715",
+            "label": "Subventions d'\u00e9quilibre",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341219,
+            "number": "7717",
+            "label": "D\u00e9gr\u00e8vements d'imp\u00f4ts autres qu'imp\u00f4ts sur les b\u00e9n\u00e9fices",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341220,
+            "number": "7718",
+            "label": "Autres produits exceptionnels sur op\u00e9rations de gestion",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341221,
+            "number": "772",
+            "label": "(Compte \u00e0 la disposition des entit\u00e9s pour enregistrer, en cours d'exercice, les produits sur exercices ant\u00e9rieurs)",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341222,
+            "number": "775",
+            "label": "Produits des cessions d'\u00e9l\u00e9ments d'actif",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341223,
+            "number": "7751",
+            "label": "Immobilisations incorporelles",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341224,
+            "number": "7752",
+            "label": "Immobilisations corporelles",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341225,
+            "number": "7754",
+            "label": "Produits cessions \u00e9l\u00e9ments d'actif immobilisations corporelles et biens vivants",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341226,
+            "number": "7756",
+            "label": "Immobilisations financi\u00e8res",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341227,
+            "number": "7758",
+            "label": "Autres \u00e9l\u00e9ments d'actif",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341228,
+            "number": "777",
+            "label": "Quote-part des subventions d'investissement vir\u00e9e au r\u00e9sultat de l'exercice",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341229,
+            "number": "778",
+            "label": "Autres produits exceptionnels",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341230,
+            "number": "7781",
+            "label": "Bonis provenant de clauses d'indexation",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341231,
+            "number": "7782",
+            "label": "Lots",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341232,
+            "number": "7783",
+            "label": "Bonis provenant du rachat par l'entreprise d'actions et d'obligations \u00e9mises par elle-m\u00eame",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341233,
+            "number": "7788",
+            "label": "Produits exceptionnels divers",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341234,
+            "number": "780",
+            "label": "Reprises sur amortissements, d\u00e9pr\u00e9ciations et provisions",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341235,
+            "number": "781",
+            "label": "Reprises sur amortissements, d\u00e9pr\u00e9ciations et provisions (\u00e0 inscrire dans les produits d'exploitation)",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341236,
+            "number": "7811",
+            "label": "Reprises sur amortissements des immobilisations incorporelles et corporelles",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341237,
+            "number": "78111",
+            "label": "Immobilisations incorporelles",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341238,
+            "number": "78112",
+            "label": "Immobilisations corporelles",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341239,
+            "number": "78114",
+            "label": "Reprises sur amortissement des immobilisations corporelles biens vivants",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341240,
+            "number": "7815",
+            "label": "Reprises sur provisions d'exploitation",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341241,
+            "number": "7816",
+            "label": "Reprises sur d\u00e9pr\u00e9ciations des immobilisations incorporelles et corporelles",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341242,
+            "number": "78161",
+            "label": "Immobilisations incorporelles",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341243,
+            "number": "78162",
+            "label": "Immobilisations corporelles",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341244,
+            "number": "78164",
+            "label": "Reprises sur provisions pour d\u00e9pr\u00e9ciation des immobilisations corporelles biens vivants",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341245,
+            "number": "7817",
+            "label": "Reprises sur d\u00e9pr\u00e9ciations des actifs circulants",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341246,
+            "number": "78173",
+            "label": "Stocks et en-cours",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341247,
+            "number": "78174",
+            "label": "Cr\u00e9ances",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341248,
+            "number": "786",
+            "label": "Reprises sur d\u00e9pr\u00e9ciations et provisions (\u00e0 inscrire dans les produits financiers)",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341249,
+            "number": "7865",
+            "label": "Reprises sur provisions financi\u00e8res",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341250,
+            "number": "7866",
+            "label": "Reprises sur d\u00e9pr\u00e9ciations des \u00e9l\u00e9ments financiers",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341251,
+            "number": "78662",
+            "label": "Immobilisations financi\u00e8res",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341252,
+            "number": "78665",
+            "label": "Valeurs mobili\u00e8res de placement",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341253,
+            "number": "787",
+            "label": "Reprises sur d\u00e9pr\u00e9ciations et provisions (\u00e0 inscrire dans les produits exceptionnels)",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341254,
+            "number": "7872",
+            "label": "Reprises sur provisions r\u00e9glement\u00e9es (immobilisations)",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341255,
+            "number": "78725",
+            "label": "Amortissements d\u00e9rogatoires",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341256,
+            "number": "78726",
+            "label": "Provision sp\u00e9ciale de r\u00e9\u00e9valuation",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341257,
+            "number": "78727",
+            "label": "Plus-values r\u00e9investies",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341258,
+            "number": "7873",
+            "label": "Reprises sur provisions r\u00e9glement\u00e9es (stocks)",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341259,
+            "number": "7874",
+            "label": "Reprises sur autres provisions r\u00e9glement\u00e9es",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341260,
+            "number": "7875",
+            "label": "Reprises sur provisions exceptionnelles",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341261,
+            "number": "7876",
+            "label": "Reprises sur d\u00e9pr\u00e9ciations exceptionnelles",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341262,
+            "number": "790",
+            "label": "Transferts de charges",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341263,
+            "number": "791",
+            "label": "Transferts de charges d'exploitation",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341264,
+            "number": "796",
+            "label": "Transferts de charges financi\u00e8res",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341265,
+            "number": "797",
+            "label": "Transferts de charges exceptionnelles",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341266,
+            "number": "800",
+            "label": "Engagements",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341267,
+            "number": "801",
+            "label": "Engagements donn\u00e9s",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341268,
+            "number": "8011",
+            "label": "Avals, cautions, garanties",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341269,
+            "number": "8014",
+            "label": "Effets circulant sous l'endos de l'entit\u00e9",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341270,
+            "number": "8016",
+            "label": "Redevances cr\u00e9dit-bail restant \u00e0 courir",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341271,
+            "number": "80161",
+            "label": "Cr\u00e9dit-bail mobilier",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341272,
+            "number": "80165",
+            "label": "Cr\u00e9dit-bail immobilier",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341273,
+            "number": "8018",
+            "label": "Autres engagements donn\u00e9s",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341274,
+            "number": "802",
+            "label": "Engagements recus",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341275,
+            "number": "8021",
+            "label": "Avals, cautions, garanties",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341276,
+            "number": "8024",
+            "label": "Cr\u00e9ances escompt\u00e9es non \u00e9chues",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341277,
+            "number": "8026",
+            "label": "Engagements re\u00e7us pour utilisation en cr\u00e9dit-bail",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341278,
+            "number": "80261",
+            "label": "Cr\u00e9dit-bail mobilier",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341279,
+            "number": "80265",
+            "label": "Cr\u00e9dit-bail immobilier",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341280,
+            "number": "8028",
+            "label": "Autres engagements re\u00e7us",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341281,
+            "number": "809",
+            "label": "Contrepartie des engagements",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341282,
+            "number": "8091",
+            "label": "Contrepartie 801",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341283,
+            "number": "8092",
+            "label": "Contrepartie 802",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341284,
+            "number": "880",
+            "label": "R\u00e9sultat en instance d'affectation",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341285,
+            "number": "890",
+            "label": "Bilan",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": false
+        },
+        {
+            "id": 1153341292,
+            "number": "401100001",
+            "label": "H\u00f4tels",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341293,
+            "number": "401100002",
+            "label": "Parking",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341294,
+            "number": "401100003",
+            "label": "Restaurants",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341295,
+            "number": "401100004",
+            "label": "Taxi",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341296,
+            "number": "401100005",
+            "label": "P\u00e9age",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341297,
+            "number": "401100006",
+            "label": "Transport",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341298,
+            "number": "401100007",
+            "label": "Frais kilom\u00e9triques",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1153341301,
+            "number": "401100008",
+            "label": "Autre",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1155334046,
+            "number": "401100009",
+            "label": "vercel",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1155334980,
+            "number": "6135",
+            "label": "Locations mobili\u00e8res",
+            "vat_rate": "exempt",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1155375928,
+            "number": "401100011",
+            "label": "Replit",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1155387941,
+            "number": "411100001",
+            "label": "Test1 Test2",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1155389407,
+            "number": "706",
+            "label": "Prestations de services",
+            "vat_rate": "FR_200",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1155389409,
+            "number": "44574",
+            "label": "TVA collect\u00e9e sur encaissements",
+            "vat_rate": "FR_200",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162788408,
+            "number": "033",
+            "label": "Accounts Payable (A/P)",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162828245,
+            "number": "084",
+            "label": "Accounts Receivable (A/R)",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162828250,
+            "number": "007",
+            "label": "Advertising",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162828251,
+            "number": "089",
+            "label": "Arizona Dept. of Revenue Payable",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162828252,
+            "number": "055",
+            "label": "Automobile",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162828254,
+            "number": "056",
+            "label": "Fuel",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162828255,
+            "number": "008",
+            "label": "Bank Charges",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162828259,
+            "number": "085",
+            "label": "Billable Expense Income",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162828261,
+            "number": "090",
+            "label": "Board of Equalization Payable",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162828265,
+            "number": "035",
+            "label": "Checking",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162828267,
+            "number": "009",
+            "label": "Commissions & fees",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162828272,
+            "number": "080",
+            "label": "Cost of Goods Sold",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162828287,
+            "number": "040",
+            "label": "Depreciation",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162828288,
+            "number": "082",
+            "label": "Design income",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162828289,
+            "number": "028",
+            "label": "Disposal Fees",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162828291,
+            "number": "029",
+            "label": "Equipment Rental",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162828293,
+            "number": "005",
+            "label": "Fees Billed",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162828295,
+            "number": "025",
+            "label": "Interest Earned",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162828303,
+            "number": "081",
+            "label": "Inventory Asset",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162828304,
+            "number": "058",
+            "label": "Job Expenses",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162828307,
+            "number": "059",
+            "label": "Cost of Labor",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162828609,
+            "number": "060",
+            "label": "Installation",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162829543,
+            "number": "061",
+            "label": "Maintenance and Repairs",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162829552,
+            "number": "062",
+            "label": "Equipment Rental",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162829554,
+            "number": "063",
+            "label": "Job Materials",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162829555,
+            "number": "064",
+            "label": "Decks and Patios",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162829556,
+            "number": "065",
+            "label": "Fountain and Garden Lighting",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162829557,
+            "number": "066",
+            "label": "Plants and Soil",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162829559,
+            "number": "067",
+            "label": "Sprinklers and Drip Systems",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162829633,
+            "number": "045",
+            "label": "Landscaping Services",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162829634,
+            "number": "046",
+            "label": "Job Materials",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162829639,
+            "number": "047",
+            "label": "Decks and Patios",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162829640,
+            "number": "048",
+            "label": "Fountains and Garden Lighting",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162829642,
+            "number": "049",
+            "label": "Plants and Soil",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162829643,
+            "number": "050",
+            "label": "Sprinklers and Drip Systems",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162829645,
+            "number": "051",
+            "label": "Labor",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162829652,
+            "number": "052",
+            "label": "Installation",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162829657,
+            "number": "053",
+            "label": "Maintenance and Repair",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162829659,
+            "number": "012",
+            "label": "Legal & Professional Fees",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162829661,
+            "number": "069",
+            "label": "Accounting",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162829662,
+            "number": "070",
+            "label": "Bookkeeper",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162829664,
+            "number": "071",
+            "label": "Lawyer",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162829667,
+            "number": "043",
+            "label": "Loan Payable",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162829668,
+            "number": "072",
+            "label": "Maintenance and Repair",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162829674,
+            "number": "073",
+            "label": "Building Repairs",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162829675,
+            "number": "074",
+            "label": "Computer Repairs",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162829681,
+            "number": "075",
+            "label": "Equipment Repairs",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162829682,
+            "number": "041",
+            "label": "Mastercard",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162829683,
+            "number": "013",
+            "label": "Meals and Entertainment",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162829684,
+            "number": "014",
+            "label": "Miscellaneous",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162829686,
+            "number": "044",
+            "label": "Notes Payable",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162829688,
+            "number": "015",
+            "label": "Office Expenses",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162829689,
+            "number": "034",
+            "label": "Opening Balance Equity",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162829690,
+            "number": "083",
+            "label": "Other Income",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162829691,
+            "number": "026",
+            "label": "Other Portfolio Income",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162829692,
+            "number": "027",
+            "label": "Penalties & Settlements",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162829694,
+            "number": "054",
+            "label": "Pest Control Services",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162829696,
+            "number": "003",
+            "label": "Prepaid Expenses",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162829697,
+            "number": "016",
+            "label": "Promotional",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162829711,
+            "number": "078",
+            "label": "Purchases",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162829712,
+            "number": "006",
+            "label": "Refunds-Allowances",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162829713,
+            "number": "017",
+            "label": "Rent or Lease",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162829714,
+            "number": "002",
+            "label": "Retained Earnings",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162829715,
+            "number": "079",
+            "label": "Sales of Product Income",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162829718,
+            "number": "036",
+            "label": "Savings",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162829719,
+            "number": "001",
+            "label": "Services",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162829762,
+            "number": "019",
+            "label": "Stationery & Printing",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162829763,
+            "number": "020",
+            "label": "Supplies",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162829768,
+            "number": "021",
+            "label": "Taxes & Licenses",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162829771,
+            "number": "022",
+            "label": "Travel",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162829773,
+            "number": "023",
+            "label": "Travel Meals",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162829774,
+            "number": "037",
+            "label": "Truck",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162829775,
+            "number": "039",
+            "label": "Depreciation",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162829776,
+            "number": "038",
+            "label": "Original Cost",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162829778,
+            "number": "088",
+            "label": "Unapplied Cash Bill Payment Expense",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162829779,
+            "number": "087",
+            "label": "Unapplied Cash Payment Income",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162829783,
+            "number": "032",
+            "label": "Uncategorized Asset",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162829784,
+            "number": "031",
+            "label": "Uncategorized Expense",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162829786,
+            "number": "030",
+            "label": "Uncategorized Income",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162829787,
+            "number": "004",
+            "label": "Undeposited Funds",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162829789,
+            "number": "024",
+            "label": "Utilities",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162829792,
+            "number": "076",
+            "label": "Gas and Electric",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162829794,
+            "number": "077",
+            "label": "Telephone",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162829795,
+            "number": "042",
+            "label": "Visa",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162830063,
+            "number": "086",
+            "label": "Discounts given",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162830065,
+            "number": "010",
+            "label": "Dues & Subscriptions",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162830068,
+            "number": "011",
+            "label": "Insurance",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162830070,
+            "number": "057",
+            "label": "Workers Compensation",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        },
+        {
+            "id": 1162830088,
+            "number": "068",
+            "label": "Permits",
+            "vat_rate": "any",
+            "country_alpha2": "any",
+            "enabled": true
+        }
+    ]
+}
