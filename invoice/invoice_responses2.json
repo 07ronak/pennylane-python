@@ -1,0 +1,342 @@
+[
+    {
+        "invoice_id": "119",
+        "response": {
+            "id": 1850353743,
+            "label": "Facture Mark Cho - F-2025-03246 - USD260.71 (label g\u00e9n\u00e9r\u00e9)",
+            "invoice_number": "F-2025-03246",
+            "currency": "USD",
+            "amount": "240.41",
+            "currency_amount": "260.71",
+            "currency_amount_before_tax": "258.0",
+            "tax": "2.5",
+            "currency_tax": "2.71",
+            "remaining_amount_with_tax": "240.41",
+            "remaining_amount_without_tax": "237.91",
+            "language": "fr_FR",
+            "paid": false,
+            "status": "upcoming",
+            "filename": null,
+            "date": "2025-03-24",
+            "deadline": "2025-04-15",
+            "pdf_invoice_free_text": "Thank you for your business and have a great day!",
+            "pdf_invoice_subject": "",
+            "pdf_description": null,
+            "special_mention": null,
+            "from_estimate_id": null,
+            "created_at": "2025-03-24T08:57:34.306109Z",
+            "updated_at": "2025-03-24T08:57:34.805439Z",
+            "archived_at": null,
+            "public_file_url": "https://app.pennylane.com/public/invoice/pdf?encrypted_id=t47CrXrb5hfMMqa8cFKixNZDMi0QaDCDfjKNLigDrZYev%2FxN4hh6gdSJcoreW9YvJnYB1K2LPK243z3ftMHFDf%2BqsTC5CvmkQ6oxRHhngIZ9z7zJ1UXjXgEl--BvUofMI14of7GMtL--MWlIh%2BWrvj3hTQudCqOLqQ%3D%3D",
+            "exchange_rate": "1.084439083232810615199034981905910736",
+            "discount": {
+                "type": "absolute",
+                "value": "10.0"
+            },
+            "ledger_entry": {
+                "id": 1850353743002
+            },
+            "customer_invoice_template": {
+                "id": 294444
+            },
+            "transaction_reference": null,
+            "customer": {
+                "id": 153262860,
+                "url": "https://app.pennylane.com/api/external/v2/customers/153262860"
+            },
+            "billing_subscription": null,
+            "estimate": null,
+            "invoice_line_sections": {
+                "url": "https://app.pennylane.com/api/external/v2/customer_invoices/1850353743/invoice_line_sections"
+            },
+            "invoice_lines": {
+                "url": "https://app.pennylane.com/api/external/v2/customer_invoices/1850353743/invoice_lines"
+            },
+            "categories": {
+                "url": "https://app.pennylane.com/api/external/v2/customer_invoices/1850353743/categories"
+            },
+            "payments": {
+                "url": "https://app.pennylane.com/api/external/v2/customer_invoices/1850353743/payments"
+            },
+            "matched_transactions": {
+                "url": "https://app.pennylane.com/api/external/v2/customer_invoices/1850353743/matched_transactions"
+            },
+            "appendices": {
+                "url": "https://app.pennylane.com/api/external/v2/customer_invoices/1850353743/appendices"
+            },
+            "external_reference": "QITYJRKK6X"
+        }
+    },
+    {
+        "invoice_id": "103",
+        "response": {
+            "id": 1850353770,
+            "label": "Facture Geeta Kalapatapu - F-2025-03247 - USD543.14 (label g\u00e9n\u00e9r\u00e9)",
+            "invoice_number": "F-2025-03247",
+            "currency": "USD",
+            "amount": "500.86",
+            "currency_amount": "543.14",
+            "currency_amount_before_tax": "537.5",
+            "tax": "5.2",
+            "currency_tax": "5.64",
+            "remaining_amount_with_tax": "500.86",
+            "remaining_amount_without_tax": "495.66",
+            "language": "fr_FR",
+            "paid": false,
+            "status": "upcoming",
+            "filename": null,
+            "date": "2025-03-24",
+            "deadline": "2025-04-15",
+            "pdf_invoice_free_text": "Thank you for your business and have a great day!",
+            "pdf_invoice_subject": "",
+            "pdf_description": null,
+            "special_mention": null,
+            "from_estimate_id": null,
+            "created_at": "2025-03-24T08:57:35.336199Z",
+            "updated_at": "2025-03-24T08:57:35.636054Z",
+            "archived_at": null,
+            "public_file_url": "https://app.pennylane.com/public/invoice/pdf?encrypted_id=UhDmc3RnfHPdtpS3KICyBJjaMYyoPk1Sql79vFJOTlvHVO%2B6TJYk1MM8rOtuaIej3Qaj38tYLObGNqQzZOP2V2nuaFvA3ulabpj8IaGgr%2FPBtt6LQ%2BwxJ%2BHn--pT3elq%2BzwI%2FgHqEw--Vdd%2F2MF7Qxb0kOyMwOLE9g%3D%3D",
+            "exchange_rate": "1.084414806532763646527971888352034501",
+            "discount": {
+                "type": "absolute",
+                "value": "13.0"
+            },
+            "ledger_entry": {
+                "id": 1850353770002
+            },
+            "customer_invoice_template": {
+                "id": 294444
+            },
+            "transaction_reference": null,
+            "customer": {
+                "id": 153262852,
+                "url": "https://app.pennylane.com/api/external/v2/customers/153262852"
+            },
+            "billing_subscription": null,
+            "estimate": null,
+            "invoice_line_sections": {
+                "url": "https://app.pennylane.com/api/external/v2/customer_invoices/1850353770/invoice_line_sections"
+            },
+            "invoice_lines": {
+                "url": "https://app.pennylane.com/api/external/v2/customer_invoices/1850353770/invoice_lines"
+            },
+            "categories": {
+                "url": "https://app.pennylane.com/api/external/v2/customer_invoices/1850353770/categories"
+            },
+            "payments": {
+                "url": "https://app.pennylane.com/api/external/v2/customer_invoices/1850353770/payments"
+            },
+            "matched_transactions": {
+                "url": "https://app.pennylane.com/api/external/v2/customer_invoices/1850353770/matched_transactions"
+            },
+            "appendices": {
+                "url": "https://app.pennylane.com/api/external/v2/customer_invoices/1850353770/appendices"
+            },
+            "external_reference": "WX4HCZUMYY"
+        }
+    },
+    {
+        "invoice_id": "99",
+        "response": {
+            "id": 1850353794,
+            "label": "Facture Travis Waldron - F-2025-03248 - USD369.84 (label g\u00e9n\u00e9r\u00e9)",
+            "invoice_number": "F-2025-03248",
+            "currency": "USD",
+            "amount": "341.05",
+            "currency_amount": "369.84",
+            "currency_amount_before_tax": "366.0",
+            "tax": "3.54",
+            "currency_tax": "3.84",
+            "remaining_amount_with_tax": "341.05",
+            "remaining_amount_without_tax": "337.51",
+            "language": "fr_FR",
+            "paid": false,
+            "status": "upcoming",
+            "filename": null,
+            "date": "2025-03-24",
+            "deadline": "2025-04-15",
+            "pdf_invoice_free_text": "Thank you for your business and have a great day!",
+            "pdf_invoice_subject": "",
+            "pdf_description": null,
+            "special_mention": null,
+            "from_estimate_id": null,
+            "created_at": "2025-03-24T08:57:36.487330Z",
+            "updated_at": "2025-03-24T08:57:36.981470Z",
+            "archived_at": null,
+            "public_file_url": "https://app.pennylane.com/public/invoice/pdf?encrypted_id=GFzacYFu1DIITMY9t%2BXsrK%2FfctW7Xt%2F0bfzColz0b0G8M2kHpnRQHAcAoOtn7THjhthH9oTJWsYS1zPptcQ6D61xX1zUIhHTUWkDvnDph2f3u1owHHgcnKzZ--F%2BBT0JVL%2BjrFjp7V--AcEBP%2FWaiNXHeOkqb%2FsB9A%3D%3D",
+            "exchange_rate": "1.084415774813077261398621902946781997",
+            "discount": {
+                "type": "absolute",
+                "value": "3.0"
+            },
+            "ledger_entry": {
+                "id": 1850353794002
+            },
+            "customer_invoice_template": {
+                "id": 294444
+            },
+            "transaction_reference": null,
+            "customer": {
+                "id": 153262872,
+                "url": "https://app.pennylane.com/api/external/v2/customers/153262872"
+            },
+            "billing_subscription": null,
+            "estimate": null,
+            "invoice_line_sections": {
+                "url": "https://app.pennylane.com/api/external/v2/customer_invoices/1850353794/invoice_line_sections"
+            },
+            "invoice_lines": {
+                "url": "https://app.pennylane.com/api/external/v2/customer_invoices/1850353794/invoice_lines"
+            },
+            "categories": {
+                "url": "https://app.pennylane.com/api/external/v2/customer_invoices/1850353794/categories"
+            },
+            "payments": {
+                "url": "https://app.pennylane.com/api/external/v2/customer_invoices/1850353794/payments"
+            },
+            "matched_transactions": {
+                "url": "https://app.pennylane.com/api/external/v2/customer_invoices/1850353794/matched_transactions"
+            },
+            "appendices": {
+                "url": "https://app.pennylane.com/api/external/v2/customer_invoices/1850353794/appendices"
+            },
+            "external_reference": "9EGXOAO028"
+        }
+    },
+    {
+        "invoice_id": "27",
+        "response": {
+            "id": 1850353831,
+            "label": "Facture Travis Waldron - F-2025-03249 - USD0.00 (label g\u00e9n\u00e9r\u00e9)",
+            "invoice_number": "F-2025-03249",
+            "currency": "USD",
+            "amount": "0.0",
+            "currency_amount": "0.0",
+            "currency_amount_before_tax": "0.0",
+            "tax": "0.0",
+            "currency_tax": "0.0",
+            "remaining_amount_with_tax": "0.0",
+            "remaining_amount_without_tax": "0.0",
+            "language": "fr_FR",
+            "paid": true,
+            "status": "paid",
+            "filename": null,
+            "date": "2025-03-24",
+            "deadline": "2025-04-15",
+            "pdf_invoice_free_text": "Thank you for your business and have a great day!",
+            "pdf_invoice_subject": "",
+            "pdf_description": null,
+            "special_mention": null,
+            "from_estimate_id": null,
+            "created_at": "2025-03-24T08:57:37.967006Z",
+            "updated_at": "2025-03-24T08:57:38.613703Z",
+            "archived_at": null,
+            "public_file_url": "https://app.pennylane.com/public/invoice/pdf?encrypted_id=w78knYWsmf3%2FoEkZR2ovlgmETCl1wh%2FsxTSE1p4cmpBro2kIjwro3kflP%2B7XxtJt4XWmoM3E%2Bs59vhWfLAprJEqJNjvgLcWOE4L5QrWmZ3gHBGXU7DZL22ze--kTi%2FrVAdb0iXkmmb--bLUUa6TOoyLunb2n3bs3Kw%3D%3D",
+            "exchange_rate": "1",
+            "discount": {
+                "type": "absolute",
+                "value": "24.0"
+            },
+            "ledger_entry": {
+                "id": 1850353831002
+            },
+            "customer_invoice_template": {
+                "id": 294444
+            },
+            "transaction_reference": null,
+            "customer": {
+                "id": 153262872,
+                "url": "https://app.pennylane.com/api/external/v2/customers/153262872"
+            },
+            "billing_subscription": null,
+            "estimate": null,
+            "invoice_line_sections": {
+                "url": "https://app.pennylane.com/api/external/v2/customer_invoices/1850353831/invoice_line_sections"
+            },
+            "invoice_lines": {
+                "url": "https://app.pennylane.com/api/external/v2/customer_invoices/1850353831/invoice_lines"
+            },
+            "categories": {
+                "url": "https://app.pennylane.com/api/external/v2/customer_invoices/1850353831/categories"
+            },
+            "payments": {
+                "url": "https://app.pennylane.com/api/external/v2/customer_invoices/1850353831/payments"
+            },
+            "matched_transactions": {
+                "url": "https://app.pennylane.com/api/external/v2/customer_invoices/1850353831/matched_transactions"
+            },
+            "appendices": {
+                "url": "https://app.pennylane.com/api/external/v2/customer_invoices/1850353831/appendices"
+            },
+            "external_reference": "0WSMNHRNEU"
+        }
+    },
+    {
+        "invoice_id": "16",
+        "response": {
+            "id": 1850353920,
+            "label": "Facture John Melton - F-2025-032410 - USD730.59 (label g\u00e9n\u00e9r\u00e9)",
+            "invoice_number": "F-2025-032410",
+            "currency": "USD",
+            "amount": "673.72",
+            "currency_amount": "730.59",
+            "currency_amount_before_tax": "723.0",
+            "tax": "7.0",
+            "currency_tax": "7.59",
+            "remaining_amount_with_tax": "673.72",
+            "remaining_amount_without_tax": "666.72",
+            "language": "fr_FR",
+            "paid": false,
+            "status": "upcoming",
+            "filename": null,
+            "date": "2025-03-24",
+            "deadline": "2025-04-15",
+            "pdf_invoice_free_text": "Thank you for your business and have a great day!",
+            "pdf_invoice_subject": "",
+            "pdf_description": null,
+            "special_mention": null,
+            "from_estimate_id": null,
+            "created_at": "2025-03-24T08:57:39.610927Z",
+            "updated_at": "2025-03-24T08:57:40.002468Z",
+            "archived_at": null,
+            "public_file_url": "https://app.pennylane.com/public/invoice/pdf?encrypted_id=XU37UfbXT%2FkerhAtLN4gfUI12g52t%2Byus%2B7CYlx41cb2%2FjinCkOSsozArlubZsVZfWgyaQZjtjTXmfspBS8KLcgGAQFFRVtB075Y%2Bl8B%2FeCuHvM7NRiJjpRQ--M44EJ2vEi3vj572M--%2FO221YnWS%2BGCpB45YNZo7g%3D%3D",
+            "exchange_rate": "1.084411921866650834174434483168081696",
+            "discount": {
+                "type": "absolute",
+                "value": "3.0"
+            },
+            "ledger_entry": {
+                "id": 1850353920002
+            },
+            "customer_invoice_template": {
+                "id": 294444
+            },
+            "transaction_reference": null,
+            "customer": {
+                "id": 153262857,
+                "url": "https://app.pennylane.com/api/external/v2/customers/153262857"
+            },
+            "billing_subscription": null,
+            "estimate": null,
+            "invoice_line_sections": {
+                "url": "https://app.pennylane.com/api/external/v2/customer_invoices/1850353920/invoice_line_sections"
+            },
+            "invoice_lines": {
+                "url": "https://app.pennylane.com/api/external/v2/customer_invoices/1850353920/invoice_lines"
+            },
+            "categories": {
+                "url": "https://app.pennylane.com/api/external/v2/customer_invoices/1850353920/categories"
+            },
+            "payments": {
+                "url": "https://app.pennylane.com/api/external/v2/customer_invoices/1850353920/payments"
+            },
+            "matched_transactions": {
+                "url": "https://app.pennylane.com/api/external/v2/customer_invoices/1850353920/matched_transactions"
+            },
+            "appendices": {
+                "url": "https://app.pennylane.com/api/external/v2/customer_invoices/1850353920/appendices"
+            },
+            "external_reference": "NE2LV7YLP4"
+        }
+    }
+]
