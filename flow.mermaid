@@ -1,0 +1,21 @@
+flowchart TD
+    A["User clicks 'Sign in with Pennylane'"]
+    B["Redirect to Pennylane Auth URL: OAuth authorization"]
+    C["User logs in and authorizes the app"]
+    D["Pennylane redirects back to your callback URL with a code and state"]
+    E["Server receives the authorization code and validates the state"]
+    F["Server sends a POST request to Pennylane token endpoint to exchange code for tokens"]
+    G["Access token and refresh token are returned"]
+    H["Tokens are stored, e.g., in session"]
+    I["Server makes API call using the access token to a protected endpoint such as /api/external/v1/me"]
+    J["Protected user data is returned and displayed"]
+
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+    E --> F
+    F --> G
+    G --> H
+    H --> I
+    I --> J
